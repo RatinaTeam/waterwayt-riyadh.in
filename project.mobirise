@@ -273,7 +273,8 @@
         "meta_descr": "نحن صفقات في هذه المجالات\nوايت مياه شرق،\nوايت ماء غرب،\nوايت مياه غرب،\nوايت ماء غرب الرياض،\nوايت ماء،\nوايت مياه،\nوايت مويه،\nوايت مويه شرق الرياض،\nوايت مويه جنوب الرياض،\nصهريج مياه جنوب،\nصهريج ماء شرق،\nوايت ماء صالح للشرب،\nوايت ماء الرياض،",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/en-zaciwmai-xeo-600x450.jpeg"
       },
       "components": [
         {
